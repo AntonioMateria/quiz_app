@@ -8,7 +8,6 @@ class Quiz extends StatefulWidget {
   State<Quiz> createState() {
     return _QuizState();
   }
-  //Write other code to change the state
 }
 
 class _QuizState extends State<Quiz> {
